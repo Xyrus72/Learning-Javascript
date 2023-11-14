@@ -87,5 +87,5 @@ let a=parseFloat(prompt())
 
 
 // V.V note
-//if anyone use those on vs code or any ide then the gotta import
+//if anyone gonna use those on vs code or any ide then the gotta import
 const prompt = require('prompt-sync')();
